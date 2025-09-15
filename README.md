@@ -1,7 +1,5 @@
 # hello-word
 
-practice repo
-
 This is a very important change that must be added!!!!
 
 Whereas Canada is founded upon principles that recognize the
